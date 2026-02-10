@@ -1,9 +1,9 @@
 [
   {
-    "version": "0.0.0.7",
-    "build": "7",
+    "version": "0.0.0.11",
+    "build": "11",
     "releaseDate": "2026-02-09",
-    "releaseNotes": "Auto-generated build 7",
-    "url": "https://github.com/Speck-Design/Release/PulseOxy/raw/main/PulseOxy_BLE-0_0_0_7.bin"
+    "releaseNotes": "Auto-generated build 11",
+    "url": "https://github.com/Speck-Design/Release/PulseOxy/raw/main/PulseOxy_BLE-0_0_0_11.bin"
   }
 ]
