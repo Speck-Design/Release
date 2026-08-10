@@ -1,0 +1,10 @@
+[
+  {
+    "version": "0.1.5",
+    "build": "5",
+    "releaseDate": "2026-08-09",
+    "releaseNotes": "MTU negotiation fix; DFU reliability improvements.",
+    "url": "https://raw.githubusercontent.com/Speck-Design/Release/main/Helus/helus-dfu-v0.1.5.zip",
+    "signatureUrl": null
+  }
+]
