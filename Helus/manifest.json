@@ -1,0 +1,10 @@
+[
+  {
+    "version": "0.1.6",
+    "build": "6",
+    "releaseDate": "2026-08-29",
+    "releaseNotes": "First OTA release for Helus hardware: BQ25887 charger driver (real battery telemetry, 500 mA input limit, charge states), session indicator glow, OTA-safe power latch, POR reset reporting.",
+    "url": "https://raw.githubusercontent.com/Speck-Design/Release/main/Helus/helus_dfu_v0.1.6.zip",
+    "signatureUrl": null
+  }
+]
