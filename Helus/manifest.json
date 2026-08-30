@@ -1,10 +1,10 @@
 [
   {
-    "version": "0.1.6",
-    "build": "6",
+    "version": "0.1.7",
+    "build": "7",
     "releaseDate": "2026-08-29",
-    "releaseNotes": "First OTA release for Helus hardware: BQ25887 charger driver (real battery telemetry, 500 mA input limit, charge states), session indicator glow, OTA-safe power latch, POR reset reporting.",
-    "url": "https://raw.githubusercontent.com/Speck-Design/Release/main/Helus/helus_dfu_v0.1.6.zip",
+    "releaseNotes": "Charging safety interlock: sessions cannot start while the helmet is plugged in, and plugging in during a session stops it. Status now reports charger-attached to the app (flag bit 4).",
+    "url": "https://raw.githubusercontent.com/Speck-Design/Release/main/Helus/helus_dfu_v0.1.7.zip",
     "signatureUrl": null
   }
 ]
