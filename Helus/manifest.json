@@ -1,10 +1,10 @@
 [
   {
-    "version": "0.1.7",
-    "build": "7",
-    "releaseDate": "2026-08-29",
-    "releaseNotes": "Charging safety interlock: sessions cannot start while the helmet is plugged in, and plugging in during a session stops it. Status now reports charger-attached to the app (flag bit 4).",
-    "url": "https://raw.githubusercontent.com/Speck-Design/Release/main/Helus/helus_dfu_v0.1.7.zip",
+    "version": "0.1.8",
+    "build": "8",
+    "releaseDate": "2026-08-30",
+    "releaseNotes": "Device identification: the helmet now reports its official model number (HELUS-1492-1) and manufacturer over the standard Bluetooth Device Information Service.",
+    "url": "https://raw.githubusercontent.com/Speck-Design/Release/main/Helus/helus_dfu_v0.1.8.zip",
     "signatureUrl": null
   }
 ]
