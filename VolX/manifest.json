@@ -1,5 +1,15 @@
 [
   {
+    "version": "0.2.2",
+    "build": "a1c52b6",
+    "releaseDate": "2026-09-15",
+    "releaseNotes": "Fixes the stale-Bluetooth-cache problem after an update: the device now tells a paired phone to re-discover its services on the first connection after a firmware change, so no Bluetooth toggle is needed.",
+    "url": "https://raw.githubusercontent.com/Speck-Design/Release/main/VolX/volx-v0.2.2.bin",
+    "signatureUrl": null,
+    "sha256": "80e06701418f8c64aa95f87ef56db291813b6c39770ff8e6cfe21aede7396743",
+    "sizeBytes": 1433472
+  },
+  {
     "version": "0.2.1",
     "build": "fc44619",
     "releaseDate": "2026-09-15",
