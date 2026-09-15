@@ -1,0 +1,12 @@
+[
+  {
+    "version": "0.2.1",
+    "build": "fc44619",
+    "releaseDate": "2026-09-15",
+    "releaseNotes": "First over-the-air release. Adds a Software Revision string (git hash) to the Bluetooth device information so the app can show exactly which build a device is running.",
+    "url": "https://raw.githubusercontent.com/Speck-Design/Release/main/VolX/volx-v0.2.1.bin",
+    "signatureUrl": null,
+    "sha256": "f3a0f5297660fc0d73617a99e0c3fd3f15a5f9044b9bdd1a7380601fccdd09b5",
+    "sizeBytes": 1432816
+  }
+]
