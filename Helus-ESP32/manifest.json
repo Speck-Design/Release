@@ -1,10 +1,10 @@
 [
   {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "build": "1",
     "releaseDate": "2026-10-02",
-    "releaseNotes": "ESP32 helmet line: protocol parity with the app (session clock, completion, stop semantics, session length), charging safety interlock, model number HELUS-1492-1, dim session indicator, per-cell battery diagnostics, and OTA delivery over the custom BLE update service.",
-    "url": "https://raw.githubusercontent.com/Speck-Design/Release/main/Helus-ESP32/helus-helmet-v1.0.1.bin",
+    "releaseNotes": "Fixes OTA partition availability (flash size config). First update delivered over the air on the ESP32 line.",
+    "url": "https://raw.githubusercontent.com/Speck-Design/Release/main/Helus-ESP32/helus-helmet-v1.0.2.bin",
     "signatureUrl": null
   }
 ]
