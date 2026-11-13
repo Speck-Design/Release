@@ -1,10 +1,10 @@
 [
   {
-    "version": "0.1.8",
-    "build": "8",
-    "releaseDate": "2026-08-30",
-    "releaseNotes": "Device identification: the helmet now reports its official model number (HELUS-1492-1) and manufacturer over the standard Bluetooth Device Information Service.",
-    "url": "https://raw.githubusercontent.com/Speck-Design/Release/main/Helus/helus_dfu_v0.1.8.zip",
+    "version": "0.1.9",
+    "build": "9",
+    "releaseDate": "2026-11-13",
+    "releaseNotes": "The helmet no longer powers itself off after 5 minutes of inactivity while it is plugged into the charger. It also reports its board revision, which the app now shows under Settings → Device Firmware.",
+    "url": "https://raw.githubusercontent.com/Speck-Design/Release/main/Helus/helus_dfu_v0.1.9.zip",
     "signatureUrl": null
   }
 ]
