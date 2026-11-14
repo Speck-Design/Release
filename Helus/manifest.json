@@ -1,10 +1,10 @@
 [
   {
-    "version": "0.1.9",
-    "build": "9",
+    "version": "0.1.10",
+    "build": "10",
     "releaseDate": "2026-11-13",
-    "releaseNotes": "The helmet no longer powers itself off after 5 minutes of inactivity while it is plugged into the charger. It also reports its board revision, which the app now shows under Settings → Device Firmware.",
-    "url": "https://raw.githubusercontent.com/Speck-Design/Release/main/Helus/helus_dfu_v0.1.9.zip",
+    "releaseNotes": "Fixes charger detection on the production board. The helmet now correctly recognises when the charging cable is connected, which restores the charging safety interlock (sessions cannot run while plugged in), the charging indicator in the app, and staying powered on while charging.",
+    "url": "https://raw.githubusercontent.com/Speck-Design/Release/main/Helus/helus_dfu_v0.1.10.zip",
     "signatureUrl": null
   }
 ]
