@@ -1,10 +1,10 @@
 [
   {
-    "version": "0.1.11",
-    "build": "11",
+    "version": "0.1.12",
+    "build": "12",
     "releaseDate": "2026-11-16",
-    "releaseNotes": "Fixes the helmet turning itself off during a paused session. Pausing used to restart the five-minute inactivity shutdown, which always ran out before the ten-minute pause limit — so a paused session ended with the helmet powering down instead of simply cancelling. The helmet now stays on for as long as a session is in progress, whether it is running or paused.",
-    "url": "https://raw.githubusercontent.com/Speck-Design/Release/main/Helus/helus_dfu_v0.1.11.zip",
+    "releaseNotes": "Fixes two cases where the helmet switched itself off during a session. Pausing no longer starts an inactivity shutdown, so a paused session cancels instead of powering the helmet down. The low-battery shutdown also no longer misreads the battery while the lights are on — it re-checks with them off first, and stays on if the battery has recovered.",
+    "url": "https://raw.githubusercontent.com/Speck-Design/Release/main/Helus/helus_dfu_v0.1.12.zip",
     "signatureUrl": null
   }
 ]
