@@ -1,10 +1,10 @@
 [
   {
-    "version": "0.1.10",
-    "build": "10",
-    "releaseDate": "2026-11-13",
-    "releaseNotes": "Fixes charger detection on the production board. The helmet now correctly recognises when the charging cable is connected, which restores the charging safety interlock (sessions cannot run while plugged in), the charging indicator in the app, and staying powered on while charging.",
-    "url": "https://raw.githubusercontent.com/Speck-Design/Release/main/Helus/helus_dfu_v0.1.10.zip",
+    "version": "0.1.11",
+    "build": "11",
+    "releaseDate": "2026-11-16",
+    "releaseNotes": "Fixes the helmet turning itself off during a paused session. Pausing used to restart the five-minute inactivity shutdown, which always ran out before the ten-minute pause limit — so a paused session ended with the helmet powering down instead of simply cancelling. The helmet now stays on for as long as a session is in progress, whether it is running or paused.",
+    "url": "https://raw.githubusercontent.com/Speck-Design/Release/main/Helus/helus_dfu_v0.1.11.zip",
     "signatureUrl": null
   }
 ]
